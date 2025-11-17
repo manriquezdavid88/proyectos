@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+button { margin: 6px; padding: 8px 12px; }
+.estatus-proceso { background: #d3d3d3; padding:8px; margin:6px; }
+.estatus-completada { background: #90EE90; padding:8px; margin:6px; }
+.estatus-incompleta { background: #FF7F7F; padding:8px; margin:6px; }
